@@ -1,9 +1,9 @@
 # Evaluation-Code-for-semantic-Segmentation
 This repository contains the pytorch code of semantic segmentation evaluation, which can be used to calculate commonly scores.
 # How to start
-Step1: Find lines 160 and 161 of the code
-Step2: These two paths correspond to your predicted result and the real label, modify it to your local path！
-Step3: Run!
+1: Find lines 160 and 161 of the code
+2: These two paths correspond to your predicted result and the real label, modify it to your local path！
+3: Run!
 # What will you get
 1. Accuracy = (TP + TN) / (TP + TN + FP + TN)
 2. Precision = TP / (TP + FP)
