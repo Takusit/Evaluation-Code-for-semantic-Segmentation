@@ -13,4 +13,4 @@ This repository contains the pytorch code of semantic segmentation evaluation, w
 6. F1_score = (2 * Precision * Recall) / (Precision + Recall)
 7. Dice_score
 # The End
-If my code helps you, please give me some attention and stars to encourage, thank you!
+If this code helps you, please give some attention and stars to encourage, thank you!
